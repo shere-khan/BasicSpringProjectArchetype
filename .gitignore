@@ -1,0 +1,9 @@
+target
+bin
+build
+.settings/*
+basic-spring-project-core/.settings/*
+basic-spring-project-web/.settings/*
+basic-spring-project-web/.dmignore
+basic-spring-project-core/.dmignore
+*.ecl
